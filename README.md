@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a backend developer in Django python
+I'm backend developer in #Python #Django
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
